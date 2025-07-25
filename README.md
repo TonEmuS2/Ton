@@ -21,7 +21,7 @@ By leveraging QEMU for CPU emulation and Vulkan for GPU command translation, Ton
 
 - Load official firmware (when available)  
 - Play retail Switch 2 games with high performance  
-- Experience a faithful Switch 2 UI clone and ecosystem  
+- Experience the full Switch 2 UI and UX
 
 ---
 
